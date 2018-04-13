@@ -1,6 +1,7 @@
 # CSE 100: Advanced Data Structures Assignment 1
 
 Project Overview: The goal of this assignment is to implement a Binary Search Tree (BST) from scratch. The BST has the ability to: 
+
 	- find(): find an element
 	- size(): returns total number of elements
 	- deleteAll(): deletes all the elements
